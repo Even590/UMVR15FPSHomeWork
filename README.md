@@ -24,7 +24,7 @@
 | "Bullet.cs" | 子彈射出與碰撞偵測處理 |
 | "ProjectGun.cs" | 玩家槍械操作，包含開火、裝彈、動畫播放等 |
 | "Health.cs" | 提供血量控制、傷害處理與死亡判斷 |
-| "Fighter.cs" | 基礎攻擊邏輯（敵我共用），使用泛化處理打擊邏輯 |
+| "Fighter.cs" | 敵人基礎攻擊邏輯，使用泛化處理打擊邏輯 |
 | "AIController.cs" | 敵人行為核心，整合移動、追擊與攻擊邏輯 |
 | "AIMover.cs" | 敵人尋路行走控制（基於 NavMesh） |
 | "PatorlPath.cs" | 敵人巡邏路徑系統，搭配 AI Controller 進行路線移動 |
