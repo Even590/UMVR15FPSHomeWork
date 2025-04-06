@@ -57,3 +57,5 @@
 
 ## Demo
 
+![遊戲畫面](images/gameplay1.png)
+![遊戲畫面2](images/gameplay2.png)
