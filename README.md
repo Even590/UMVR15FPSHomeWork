@@ -38,7 +38,6 @@
 - C# 語言
 - Unity NavMesh AI 尋路
 - Raycast 射線偵測
-- 腳本模組化與接口解耦設計
 
 ---
 
